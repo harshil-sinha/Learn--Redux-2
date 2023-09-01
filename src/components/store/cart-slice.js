@@ -33,6 +33,7 @@ const cartSlice = createSlice({
                 existingItem.totalPrice = existingItem.totalPrice-existingItem.price;
                 
             }
+            
         }
     }
 })
